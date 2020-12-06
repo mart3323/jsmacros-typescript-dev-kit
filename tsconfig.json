@@ -6,7 +6,7 @@
     "sourceMap": false,
     "experimentalDecorators": true,
     "outDir": "dist",
-    "lib": ["es2017", "dom"],
+    "lib": ["es2017"],
     "noImplicitAny": false,
     "suppressImplicitAnyIndexErrors": true,
     "removeComments": true,
